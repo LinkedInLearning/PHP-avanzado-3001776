@@ -1,12 +1,13 @@
-# Nombre final del curso
+# PHP avanzado
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[PHP avanzado]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+Amplía y expande tus habilidades con el lenguaje de programación PHP dominando las últimas técnicas, frameworks, sintaxis y herramientas que se utilizan en el mercado laboral actual. Durante el contenido repasarás conceptos sobre frameworks, testing, IDE avanzados, namespaces, benchmarks, patrones de diseño, cacheo y muchísimos otros apuntes que te aportarán soltura con el lenguaje.
 
 ## Instrucciones
 
@@ -26,9 +27,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Gabriela García**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/gabriela-garcia/).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
