@@ -6,7 +6,6 @@ Este es el repositorio del curso de LinkedIn Learning `[PHP avanzado]`. El curso
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
 Amplía y expande tus habilidades con el lenguaje de programación PHP dominando las últimas técnicas, frameworks, sintaxis y herramientas que se utilizan en el mercado laboral actual. Durante el contenido repasarás conceptos sobre frameworks, testing, IDE avanzados, namespaces, benchmarks, patrones de diseño, cacheo y muchísimos otros apuntes que te aportarán soltura con el lenguaje.
 
 ## Instrucciones
