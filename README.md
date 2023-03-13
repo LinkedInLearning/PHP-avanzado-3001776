@@ -1,8 +1,8 @@
 # PHP avanzado
 
-Este es el repositorio del curso de LinkedIn Learning `[PHP avanzado]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `PHP avanzado`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/71371373/194298936-f44820a0-09c3-41f0-9847-1aff497aad42.png)
+![COURSENAME][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -18,11 +18,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ## Instalación
 
-1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
-
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+1. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
 
 ### Docente
 
